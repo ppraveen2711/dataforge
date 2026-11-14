@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="A private learning studio for Python, NumPy, pandas, PySpark and data engineering. Learn, practice and prepare for interviews.">
+  <title>DataForge · Data Engineering Studio</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/style.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <aside class="sidebar">
+    <a class="brand" href="#home" aria-label="DataForge home"><span class="brand-icon">df<span>↗</span></span><span>DataForge<small>LEARNING STUDIO</small></span></a>
+    <p class="nav-label">YOUR WORKSPACE</p>
+    <nav aria-label="Main navigation">
+      <a href="#home" data-nav="home"><span>◈</span> Overview</a>
+      <a href="#learn" data-nav="learn"><span>▤</span> Learning path</a>
+      <a href="#test" data-nav="test"><span>◎</span> Practice & tests</a>
+      <a href="#review" data-nav="review"><span>↺</span> Review & progress</a>
+      <a href="#library" data-nav="library"><span>▦</span> Question library</a>
+      <a href="#bank" data-nav="bank"><span>⊞</span> Manage question bank</a>
+    </nav>
+    <div class="sidebar-bottom"><span class="status-dot"></span> Your personal learning space<p>Runs locally. Progress stays here.</p><span class="version-label">PYTHON · NUMPY · PANDAS · PYSPARK</span></div>
+  </aside>
+  <div class="shell">
+    <header class="topbar"><span id="breadcrumb">Workspace <span>/</span> Overview</span><span class="local-badge"><i></i> Local workspace</span></header>
+    <main id="main" tabindex="-1"><div class="loading">Preparing your learning studio…</div></main>
+    <footer>Built for understanding, one question at a time. <a href="#bank">Sources & database</a></footer>
+  </div>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="confirm-dialog" aria-labelledby="dialog-title"><h2 id="dialog-title">Submit your test?</h2><p id="dialog-copy"></p><div class="actions"><button class="button secondary" id="dialog-cancel">Keep working</button><button class="button" id="dialog-submit">Submit test</button></div></dialog>
+</body>
+</html>

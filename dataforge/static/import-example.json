@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "bank_version": "1.1.0-custom",
+  "chapters": [
+    {
+      "id": "custom-python-review",
+      "track": "Python",
+      "title": "My Python review notes",
+      "order": 37,
+      "summary": "Add your own focused practice questions here.",
+      "objectives": ["Understand immutable containers"],
+      "lesson": "A tuple fixes its sequence of references, but the objects it contains can still be mutable. A tuple containing a list does not make that list immutable. Ask whether an operation changes the tuple itself or an object referenced by it.",
+      "exercise": "Create a tuple holding a dictionary. Add a key to the dictionary, then try replacing the dictionary through the tuple's index. Explain the difference."
+    }
+  ],
+  "questions": [
+    {
+      "id": "custom-python-0001",
+      "chapter": "custom-python-review",
+      "difficulty": "beginner",
+      "kind": "code",
+      "prompt": "Which value is printed after updating the dictionary held in this tuple?",
+      "code": "record = ({'status': 'new'},)\nrecord[0]['status'] = 'ready'\nprint(record[0]['status'])",
+      "choices": ["ready", "new", "TypeError", "KeyError"],
+      "answer": 0,
+      "explanation": "The dictionary is mutable, so its value can be updated. The tuple still refers to the same dictionary; no tuple element is being replaced.",
+      "source": "https://docs.python.org/3.11/tutorial/datastructures.html#tuples-and-sequences",
+      "version": "Python 3.11+",
+      "revision": 1
+    }
+  ]
+}

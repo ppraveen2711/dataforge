@@ -1,0 +1,33 @@
+{
+  "questions": 1360,
+  "chapters": 52,
+  "by_track": {
+    "Python": 420,
+    "NumPy": 120,
+    "pandas": 160,
+    "PySpark": 380,
+    "Data Engineering": 280
+  },
+  "by_kind": {
+    "code": 261,
+    "concept": 406,
+    "scenario": 333
+  },
+  "backend_integration_tests": 16,
+  "backend_tests_passed": 16,
+  "python_examples_executed": 169,
+  "python_example_failures": 0,
+  "spark_runtime_execution": "Not performed; documentation-based review",
+  "browser_verified": [
+    "homepage",
+    "chapter navigation",
+    "test setup",
+    "answer selection",
+    "immediate explanation",
+    "reload persistence",
+    "submission",
+    "correct score and unanswered count"
+  ],
+  "browser_console_errors": 0,
+  "new_content_execution": "Structural validation complete; execution verification pending"
+}

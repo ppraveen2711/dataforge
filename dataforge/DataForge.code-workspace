@@ -1,0 +1,11 @@
+{
+  "folders": [{"path": ".", "name": "DataForge — Data Engineering"}],
+  "settings": {"files.exclude": {"**/__pycache__": true}},
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": [
+      {"label": "Run DataForge", "type": "shell", "command": "python", "args": ["server.py"], "problemMatcher": []},
+      {"label": "Test DataForge", "type": "shell", "command": "python", "args": ["-m", "unittest", "discover", "-s", "tests", "-v"], "group": "test", "problemMatcher": []}
+    ]
+  }
+}

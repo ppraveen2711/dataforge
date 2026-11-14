@@ -1,0 +1,362 @@
+[
+  {
+    "title": "Python 3.11 Collections",
+    "url": "https://docs.python.org/3.11/library/collections.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Dataclasses",
+    "url": "https://docs.python.org/3.11/library/dataclasses.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Itertools",
+    "url": "https://docs.python.org/3.11/library/itertools.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Stdtypes",
+    "url": "https://docs.python.org/3.11/library/stdtypes.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Stdtypes",
+    "url": "https://docs.python.org/3.11/library/stdtypes.html#mapping-types-dict",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Stdtypes",
+    "url": "https://docs.python.org/3.11/library/stdtypes.html#text-sequence-type-str",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Classes",
+    "url": "https://docs.python.org/3.11/tutorial/classes.html#python-scopes-and-namespaces",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Controlflow",
+    "url": "https://docs.python.org/3.11/tutorial/controlflow.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Controlflow",
+    "url": "https://docs.python.org/3.11/tutorial/controlflow.html#defining-functions",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Datastructures",
+    "url": "https://docs.python.org/3.11/tutorial/datastructures.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Errors",
+    "url": "https://docs.python.org/3.11/tutorial/errors.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 Modules",
+    "url": "https://docs.python.org/3.11/tutorial/modules.html",
+    "note": "Official Python documentation; source reference for original authored explanations and questions."
+  },
+  {
+    "title": "Python 3.11 typing",
+    "url": "https://docs.python.org/3.11/library/typing.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 virtual environments",
+    "url": "https://docs.python.org/3.11/library/venv.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 context managers",
+    "url": "https://docs.python.org/3.11/library/contextlib.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 heap queue",
+    "url": "https://docs.python.org/3.11/library/heapq.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 bisection",
+    "url": "https://docs.python.org/3.11/library/bisect.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 functools",
+    "url": "https://docs.python.org/3.11/library/functools.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 built-in functions",
+    "url": "https://docs.python.org/3.11/library/functions.html",
+    "note": "Official supplementary reference for this curriculum."
+  },
+  {
+    "title": "Python 3.11 Classes",
+    "url": "https://docs.python.org/3.11/tutorial/classes.html",
+    "note": "Official reference."
+  },
+  {
+    "title": "Spark execution and the session — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/cluster-overview.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Schemas, types and DataFrame creation — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/api/pyspark.sql.SparkSession.createDataFrame.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Selecting, filtering and expressions — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.select.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Nulls, NaN and data cleaning — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-ref-null-semantics.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Strings, dates and timestamps — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/functions.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Aggregations, grouping and pivoting — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/api/pyspark.sql.GroupedData.agg.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Joins and set operations — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/api/pyspark.sql.DataFrame.join.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Window functions and ordered analytics — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/api/pyspark.sql.Window.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Arrays, maps, structs and JSON — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/functions.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "Reading and writing data — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-data-sources.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "RDDs, functions and shared variables — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/rdd-programming-guide.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "UDFs, pandas integration and testing — Apache Spark 3.5.7",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/user_guide/sql/arrow_pandas.html",
+    "note": "Official reference used to verify concepts. Questions and lessons are original educational material, not copied interview transcripts."
+  },
+  {
+    "title": "file",
+    "url": "https://docs.python.org/3.11/library/functions.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "path",
+    "url": "https://docs.python.org/3.11/library/pathlib.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "csv",
+    "url": "https://docs.python.org/3.11/library/csv.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "io",
+    "url": "https://docs.python.org/3.11/library/io.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "json",
+    "url": "https://docs.python.org/3.11/library/json.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "pickle",
+    "url": "https://docs.python.org/3.11/library/pickle.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "re",
+    "url": "https://docs.python.org/3.11/library/re.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "dt",
+    "url": "https://docs.python.org/3.11/library/datetime.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "zone",
+    "url": "https://docs.python.org/3.11/library/zoneinfo.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "decimal",
+    "url": "https://docs.python.org/3.11/library/decimal.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "math",
+    "url": "https://docs.python.org/3.11/library/math.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "sql",
+    "url": "https://docs.python.org/3.11/library/sqlite3.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "log",
+    "url": "https://docs.python.org/3.11/library/logging.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "test",
+    "url": "https://docs.python.org/3.11/library/unittest.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "mock",
+    "url": "https://docs.python.org/3.11/library/unittest.mock.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "trace",
+    "url": "https://docs.python.org/3.11/library/traceback.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "future",
+    "url": "https://docs.python.org/3.11/library/concurrent.futures.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "async",
+    "url": "https://docs.python.org/3.11/library/asyncio-task.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "thread",
+    "url": "https://docs.python.org/3.11/library/threading.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "queue",
+    "url": "https://docs.python.org/3.11/library/queue.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "time",
+    "url": "https://docs.python.org/3.11/library/time.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "os",
+    "url": "https://docs.python.org/3.11/library/os.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "temp",
+    "url": "https://docs.python.org/3.11/library/tempfile.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "perf",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-performance-tuning.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "tune",
+    "url": "https://spark.apache.org/docs/3.5.7/tuning.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "monitor",
+    "url": "https://spark.apache.org/docs/3.5.7/monitoring.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "conf",
+    "url": "https://spark.apache.org/docs/3.5.7/configuration.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "stream",
+    "url": "https://spark.apache.org/docs/3.5.7/structured-streaming-programming-guide.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "kafka",
+    "url": "https://spark.apache.org/docs/3.5.7/structured-streaming-kafka-integration.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "rdd",
+    "url": "https://spark.apache.org/docs/3.5.7/rdd-programming-guide.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "sqlspark",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-programming-guide.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "parquet",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-data-sources-parquet.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "csvspark",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-data-sources-csv.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "jsonspark",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-data-sources-json.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "save",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-data-sources-load-save-functions.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "null",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-ref-null-semantics.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "jdbc",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-data-sources-jdbc.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "ansi",
+    "url": "https://spark.apache.org/docs/3.5.7/sql-ref-ansi-compliance.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "types",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/reference/pyspark.sql/types.html",
+    "note": "Official reference"
+  },
+  {
+    "title": "testsp",
+    "url": "https://spark.apache.org/docs/3.5.7/api/python/getting_started/testing_pyspark.html",
+    "note": "Official reference"
+  }
+]
